@@ -1099,12 +1099,12 @@ containing a value of this type.
         public static final int action_settings=0x7f050058;
         public static final int activity_chooser_view_content=0x7f050025;
         public static final int always=0x7f05000b;
-        public static final int attackTxt=0x7f050050;
+        public static final int attackBtn=0x7f050050;
         public static final int beginning=0x7f050011;
         public static final int checkbox=0x7f05002d;
         public static final int collapseActionView=0x7f05000d;
         public static final int default_activity_button=0x7f050028;
-        public static final int defendTxt=0x7f050051;
+        public static final int defendBtn=0x7f050051;
         public static final int dialog=0x7f05000e;
         public static final int disableHome=0x7f050008;
         public static final int dropdown=0x7f05000f;
@@ -1125,10 +1125,10 @@ containing a value of this type.
         public static final int imageView2=0x7f050055;
         public static final int imageView3=0x7f050056;
         public static final int imageView4=0x7f050057;
-        public static final int itemTxt=0x7f050053;
+        public static final int itemBtn=0x7f050053;
         public static final int listMode=0x7f050001;
         public static final int list_item=0x7f050029;
-        public static final int magicTxt=0x7f050052;
+        public static final int magicBtn=0x7f050052;
         public static final int middle=0x7f050012;
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
@@ -1146,7 +1146,7 @@ containing a value of this type.
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
         public static final int radio=0x7f05002f;
-        public static final int runTxt=0x7f050054;
+        public static final int runBtn=0x7f050054;
         public static final int scoreBox=0x7f05003f;
         public static final int scoreLabel=0x7f050040;
         public static final int scoreTxt=0x7f050041;
