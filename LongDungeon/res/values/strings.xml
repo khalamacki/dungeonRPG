@@ -3,6 +3,10 @@
 
     <string name="app_name">LongDungeon</string>
     <string name="hello_world">Hello world!</string>
+    <string name="name_shop">Shopper</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_shopping_screen">ShoppingScreenActivity</string>
+    <string name="title_activity_congrate">CongrateActivity</string>
+    <string name="title_activity_inventory">InventoryActivity</string>
 
 </resources>
