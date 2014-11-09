@@ -1,4 +1,4 @@
-package com.example.longdungeon;
+package com.example.longdungeon.classes;
 
 public class Weapon extends Equipment 
 {
